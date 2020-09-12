@@ -3,7 +3,7 @@ q3. Create a class circle which accepts radius from user and display area of cir
 
 <html>
 <body>
-	<form name="frmname" method="post" action="11A3.php">
+	<form name="frmname" method="post" action="Circle.php">
 		Enter Radius:<input type="text" name="radius">
 		
 		<br><input type="submit" name="sub">
