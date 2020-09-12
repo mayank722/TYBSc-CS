@@ -2,7 +2,7 @@ q4. Create a class "AO"(Arithmetic Operations).Accept two numbers from user and 
 
 <html>
 <body>
-	<form name="frmname" method="post" action="11A4.php">
+	<form name="frmname" method="post" action="AO.php">
 		Enter Number1:<input type="text" name="n1">
 		<br>Enter Number2:<input type="text" name="n2">
 		<br>Enter your choice: <select name="ch">
