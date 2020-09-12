@@ -5,7 +5,7 @@ q2. Create a class employee which accept employee name,employee designation & sa
 
  <!DOCTYPE html>
 <body>
-	<form name="frmname" method="post" action="11A2.php">
+	<form name="frmname" method="post" action="Employee.php">
 		Enter Employee Name:<input type="text" name="ename">
 		<br>Enter Employee Designation:<input type="text" name="edes">
 		<br>Enter Employee Salary:<input type="text" name="esal">
